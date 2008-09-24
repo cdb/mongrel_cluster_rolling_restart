@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
-  s.name     = "MongrelClusterRollingRestart"
-  s.version  = "0.1.0"
+  s.name     = "mongrel_cluster_rolling_restart"
+  s.version  = "0.1.1"
   s.date     = "2008-09-24"
 
   s.summary     = "Allows for a mongrel cluster to be restarted in a rolling fashion"
