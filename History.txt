@@ -1,0 +1,3 @@
+=== 0.1.0 / 2008-09-24
+
+* First attempt at creating my first gem here, so bear with me. Just putting some basic files in place, and adding the code I have so far for the rolling restart.
