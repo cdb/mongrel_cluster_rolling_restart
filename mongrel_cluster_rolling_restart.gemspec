@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.email    = "cameron@cdbdesign.net"
   s.homepage = "http://github.com/cdb/mongrel_cluster_rolling_restart"
 
-  s.files = ["History.txt", "Manifest.txt", "README.txt", "Rakefile", "bin/mongrel_cluster_rolling_restart", "lib/mongrel_cluster_rolling_restart.rb", "test/test_mongrel_cluster_rolling_restart.rb"]
+  s.files = ["History.txt", "Manifest.txt", "README.txt", "Rakefile", "lib/mongrel_cluster_rolling_restart.rb", "recipes/mongrel_cluster_rolling_restart.rb", "tasks/mongrel_cluster_rolling_restart.rake", "test/test_mongrel_cluster_rolling_restart.rb"]
   s.test_files = ["test/test_mongrel_cluster_rolling_restart.rb"]
 
   s.rdoc_options = ["--main", "README.txt"]
