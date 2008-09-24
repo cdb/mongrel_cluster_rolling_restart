@@ -2,6 +2,8 @@ History.txt
 Manifest.txt
 README.txt
 Rakefile
-bin/mongrel_cluster_rolling_restart
 lib/mongrel_cluster_rolling_restart.rb
+mongrel_cluster_rolling_restart.gemspec
+recipes/mongrel_cluster_rolling_restart.rb
+tasks/mongrel_cluster_rolling_restart.rake
 test/test_mongrel_cluster_rolling_restart.rb
